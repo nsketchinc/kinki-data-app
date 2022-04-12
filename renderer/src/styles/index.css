@@ -1,0 +1,19 @@
+#__next {
+
+  font-family: AvenirNext "Noto Sans JP";
+
+  font-size: 12px;
+  letter-spacing: 0em;
+  line-height: 16.8px;
+
+  color: #000;
+}
+
+/** dat.gui **/
+.dg.main {
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  right: -15px;
+  z-index: 100;
+}
